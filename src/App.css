@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
 }
 
 .App-logo {
@@ -35,4 +35,38 @@
   to {
     transform: rotate(360deg);
   }
+}
+ol,ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  display: inline;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.off {
+  background: #000;
+}
+.input_area {
+  margin-bottom: 10px;
+}
+
+.input_area label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.input_area input {
+  width: 400px;
+  height: 40px;
+  font-size: 20px;
+  padding: 0 10px;
+}
+
+.input_area select {
+  width: 400px;
+  height: 40px;
+  font-size: 20px;
 }

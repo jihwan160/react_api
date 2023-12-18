@@ -1,0 +1,54 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    }
+  ],
+  "words": [
+    {
+      "id": 2,
+      "day": 2,
+      "eng": "banana",
+      "kor": "바나나",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "day": 3,
+      "eng": "school",
+      "kor": "학교",
+      "isDone": false
+    },
+    {
+      "id": 4,
+      "day": 4,
+      "eng": "pencil",
+      "kor": "연필",
+      "isDone": false
+    },
+    {
+      "day": "1",
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": false,
+      "id": 5
+    }
+  ]
+}
